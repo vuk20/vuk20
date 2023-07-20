@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vuk20
 - 👀 I’m interested in science & technology
-- 🌱 I’m currently learning Data Science and Analytics
+- 🌱 I’m a certified Full stack developer and Data Science and Analytics student. 
 - 💞️ I’m looking to collaborate with people who would like to solve problems. 
 - 📫 How to reach me email: vaisakhunnikrishnan123@gmail.com
 
